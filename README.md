@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello, my name is Octavio, I'm 21 years old, I study Computer Science, I work as an intern in QA, and I'm currently focusing my studies on the development area.<br><br>I have knowledge of the following technologies: Java, Python, Oracle, Selenium, Flask, Spring Boot.</p>
+<p align="left">Hello, my name is Octavio, I'm 21 years old, I study Computer Science, I work as an intern in QA, and I'm currently focusing my studies on the development area.<br><br>I have knowledge of the following technologies: Java, Python, Oracle, Selenium, Flask, Spring Boot.<br><br>My linkedin profile: https://www.linkedin.com/in/octávio-bordotti-68bb6a228/</p>
 
 ###
 
@@ -30,13 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctavioSB11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioSB11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
