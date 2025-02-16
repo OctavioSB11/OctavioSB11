@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello, my name is Octavio, I'm 21 years old, I study Computer Science, I work as an Software Test Developer, and I'm currently focusing my studies on the machine learning, AI, deep learning and tests automations.<br><br>I have knowledge of the following technologies: Java, Python, Oracle, Selenium, Flask, Spring Boot.<br><br>My linkedin profile: https://www.linkedin.com/in/octávio-bordotti-68bb6a228/</p>
+<p align="left">Hello, my name is Octavio, I'm 22 years old, I study Computer Science, I work as an Software Test Developer Trainee, and I'm currently focusing my studies on the machine learning, AI, deep learning and tests automations.<br><br>I have knowledge of the following technologies: Java, Python, Oracle, Selenium, Flask, Spring Boot.<br><br>My linkedin profile: https://www.linkedin.com/in/octávio-bordotti-68bb6a228/</p>
 
 ###
 
